@@ -1,0 +1,9 @@
+# Target directories for Maven
+**/target/
+**/.idea/
+**/*.iml
+**/*.iws
+**/*.ipr
+.idea/
+*.iml
+.mvn/wrapper/maven-wrapper.jar
